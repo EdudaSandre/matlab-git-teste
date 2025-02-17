@@ -1,0 +1,11 @@
+# Arquivos temporários do MATLAB
+*.asv
+*.m~
+*.bak
+*.slxc
+*.mlappinstall
+
+# Cache e metadados do MATLAB
+slprj/
+simulinkCodeGeneration/
+*.autosave
